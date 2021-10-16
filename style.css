@@ -65,7 +65,7 @@ html {
 }
 
 .navbar .menu li a:hover {
-  color: crimson;
+  color: rgb(124, 101, 165);
 }
 .navbar.sticky .menu li a:hover {
   color: #fff;
